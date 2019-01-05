@@ -1,5 +1,61 @@
 // Ajouter une description brève du lien posté pour permettre une recherche rapide.
 
+
+----------------- Animation ------------------------------
+
+Techniques d'animation en SVG et CSS 
+https://tympanus.net/codrops/2016/03/21/animated-animals-css-svg/
+
+Techniques d'animation en CSS et JS
+https://www.barbuduweb.com/des-animaux-en-css-et-en-javascript/
+
+Tuto sur les animations en SVG
+https://theartificial.com/blog/2018/05/23/svg-animation.html
+
+
+----------------- Design ------------------------------
+
+Palette de couleurs prédéfinies et banque d'icônes à utiliser pour du Material Design.
+Pour chaque couleur, des tons prédéfinis qui vont déjà ensemble, avec prévisualisation. 
+https://www.materialpalette.com/
+
+----------------- Code ------------------------------
+
 Compiler de SCSS en CSS (morganne)
 https://www.cssportal.com/scss-to-css/
+
+Langage pour générer des emails responsive facilement.
+https://mjml.io
+
+----------------- Templates ------------------------------
+
+Réseau social où on peut voir des templates de page web créées par des utilisateurs.
+On peut les télécharger librement, et pour certaines, les réutiliser à titre commercial.
+https://www.uplabs.com/
+
+----------------- Technologies ------------------------------
+
+Création interactive de MCD (Modèle Conceptuel de Données), sans téléchargement
+https://dbdiagram.io/home/
+
+Logiciel pour créer des MCD
+http://www.jfreesoft.com/JMerise/
+
+
+----------------- Librairies ------------------------------
+
+Librairie Javascript pour créer des images animées
+http://snapsvg.io/
+
+Librairie Javascript pour créer des images animées
+https://bonsaijs.org/
+
+Librairie Javascript compatible avec Animate.css pour animer du texte ou une page web facilement.
+https://wowjs.uk/
+
+Librairie de classes d'animations en CSS.
+https://daneden.github.io/animate.css/
+
+
+
 
