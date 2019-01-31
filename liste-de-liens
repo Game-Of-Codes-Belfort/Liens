@@ -19,9 +19,15 @@ Palette de couleurs prédéfinies et banque d'icônes à utiliser pour du Materi
 Pour chaque couleur, des tons prédéfinis qui vont déjà ensemble, avec prévisualisation. 
 https://www.materialpalette.com/
 
+Permet de prévisualiser plusieurs tailles d'écran à la fois pour le responsive
 https://sizzy.co/
 
-http://collectui.com/
+5 outils d'optimisation d'images
+https://www.barbuduweb.com/5-outils-indispensables-pour-optimiser-les-images-pour-le-web/
+
+Page listant les codes hexa et les noms de différentes couleurs
+https://encycolorpedia.fr/named
+
 
 ----------------- Code ------------------------------
 
@@ -31,13 +37,21 @@ https://www.cssportal.com/scss-to-css/
 Langage pour générer des emails responsive facilement.
 https://mjml.io
 
-https://www.barbuduweb.com/5-outils-indispensables-pour-optimiser-les-images-pour-le-web/
+Autoprefixer pour le CSS
+https://autoprefixer.github.io/
+
+12 effets JS et CSS pour de belles animations web
+http://www.webdesignertrends.com/2019/01/effets-javascript-css-animations/
+
 
 ----------------- Templates ------------------------------
 
 Réseau social où on peut voir des templates de page web créées par des utilisateurs.
 On peut les télécharger librement, et pour certaines, les réutiliser à titre commercial.
 https://www.uplabs.com/
+
+Inspiration designs
+http://collectui.com/
 
 ----------------- Technologies ------------------------------
 
@@ -65,8 +79,14 @@ https://daneden.github.io/animate.css/
 Librairie JS permettant de faire des Parallaxes.
 https://github.com/stolksdorf/Parallaxjs
 
+Librairie contenant des loaders de page en AJAX
+https://loading.io/
 ---------------Divers-----------------------------------------
 
+Un site recensant des liens pratiques pour le web design
 https://www.blogduwebdesign.com/
+
+Un site de ressources pour le web design
+http://www.webdesignertrends.com/
 
 
