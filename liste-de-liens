@@ -12,6 +12,12 @@ https://www.barbuduweb.com/des-animaux-en-css-et-en-javascript/
 Tuto sur les animations en SVG
 https://theartificial.com/blog/2018/05/23/svg-animation.html
 
+Librairie de classes d'animations en CSS.
+https://daneden.github.io/animate.css/
+
+Un outil permettant de créer facilement des animations CSS
+http://animista.net/play/background/color-change/color-change-5x
+
 
 ----------------- Design ------------------------------
 
@@ -84,9 +90,6 @@ https://bonsaijs.org/
 Librairie Javascript compatible avec Animate.css pour animer du texte ou une page web facilement.
 https://wowjs.uk/
 
-Librairie de classes d'animations en CSS.
-https://daneden.github.io/animate.css/
-
 Librairie JS permettant de faire des Parallaxes.
 https://github.com/stolksdorf/Parallaxjs
 
@@ -106,5 +109,8 @@ http://www.webdesignertrends.com/
 
 Une ressource complète pour sécuriser un système Linux (en anglais)
 https://github.com/trimstray/the-practical-linux-hardening-guide#the-practical-linux-hardening-guide
+
+Un outil de recherche intuitif pour les commandes Git 
+https://gitexplorer.com/
 
 
