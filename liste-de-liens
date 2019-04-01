@@ -70,6 +70,9 @@ https://www.cssmatic.com/
 10 balises HTML peu connues mais utiles 
 https://dev.to/emmawedekind/10-html-element-you-didnt-know-you-needed-3jo4
 
+Un repo GitHub listant toutes les alternatives à JQuery en JS natif
+https://github.com/nefe/You-Dont-Need-jQuery
+
 
 
 ----------------- Templates ------------------------------
@@ -119,6 +122,11 @@ https://loading.io/
 
 Librairie contenant différents styles de boutons
 https://bttn.surge.sh/
+
+Librairie permettant de réaliser des fenêtres modales
+https://micromodal.now.sh/
+
+
 
 ---------------Divers-----------------------------------------
 
